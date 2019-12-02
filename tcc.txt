@@ -1,2 +1,5 @@
 Título: a história do armazenamento da informação
 cap 1: esse trabalho é...
+Referências:
+-r1
+-r2
